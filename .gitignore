@@ -1,0 +1,18 @@
+/node_modules
+/.next
+/out
+/build
+.DS_Store
+*.pem
+npm-debug.log*
+.env*
+.server.log
+next-env.d.ts
+
+# Source/raw video files (processed versions live in public/)
+/site_inspiracao.mp4
+/valve.mp4
+
+# Root-level duplicate assets (actual files live in public/)
+/logo_preto.png
+/marcadagua.png
