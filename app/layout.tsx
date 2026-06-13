@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   title: "Skid Power — Válvula Esfera S6800",
   description:
     "Válvulas Esfera Linha S6800: qualidade, confiabilidade e desempenho superior para controle absoluto. Skid Power.",
+  icons: {
+    icon: "/favicon.png",
+  },
 };
 
 export const viewport: Viewport = {
